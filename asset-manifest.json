@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mngl-gis/static/css/main.bcf7e9b0.chunk.css",
+    "main.js": "/mngl-gis/static/js/main.5654f2fa.chunk.js",
+    "main.js.map": "/mngl-gis/static/js/main.5654f2fa.chunk.js.map",
+    "runtime-main.js": "/mngl-gis/static/js/runtime-main.b5d88563.js",
+    "runtime-main.js.map": "/mngl-gis/static/js/runtime-main.b5d88563.js.map",
+    "static/js/2.3a31116a.chunk.js": "/mngl-gis/static/js/2.3a31116a.chunk.js",
+    "static/js/2.3a31116a.chunk.js.map": "/mngl-gis/static/js/2.3a31116a.chunk.js.map",
+    "index.html": "/mngl-gis/index.html",
+    "precache-manifest.a86e79e381235e55cf93f7e2566556f7.js": "/mngl-gis/precache-manifest.a86e79e381235e55cf93f7e2566556f7.js",
+    "service-worker.js": "/mngl-gis/service-worker.js",
+    "static/css/main.bcf7e9b0.chunk.css.map": "/mngl-gis/static/css/main.bcf7e9b0.chunk.css.map",
+    "static/js/2.3a31116a.chunk.js.LICENSE.txt": "/mngl-gis/static/js/2.3a31116a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5d88563.js",
+    "static/js/2.3a31116a.chunk.js",
+    "static/css/main.bcf7e9b0.chunk.css",
+    "static/js/main.5654f2fa.chunk.js"
+  ]
+}
