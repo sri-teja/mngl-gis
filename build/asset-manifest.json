@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcf7e9b0.chunk.css",
-    "main.js": "/static/js/main.549cc770.chunk.js",
-    "main.js.map": "/static/js/main.549cc770.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b2fa27a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b2fa27a4.js.map",
-    "static/js/2.3a31116a.chunk.js": "/static/js/2.3a31116a.chunk.js",
-    "static/js/2.3a31116a.chunk.js.map": "/static/js/2.3a31116a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.569634ca270d3be848f7775af51f6ea6.js": "/precache-manifest.569634ca270d3be848f7775af51f6ea6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bcf7e9b0.chunk.css.map": "/static/css/main.bcf7e9b0.chunk.css.map",
-    "static/js/2.3a31116a.chunk.js.LICENSE.txt": "/static/js/2.3a31116a.chunk.js.LICENSE.txt"
+    "main.css": "/mngl-gis/static/css/main.bcf7e9b0.chunk.css",
+    "main.js": "/mngl-gis/static/js/main.5654f2fa.chunk.js",
+    "main.js.map": "/mngl-gis/static/js/main.5654f2fa.chunk.js.map",
+    "runtime-main.js": "/mngl-gis/static/js/runtime-main.b5d88563.js",
+    "runtime-main.js.map": "/mngl-gis/static/js/runtime-main.b5d88563.js.map",
+    "static/js/2.3a31116a.chunk.js": "/mngl-gis/static/js/2.3a31116a.chunk.js",
+    "static/js/2.3a31116a.chunk.js.map": "/mngl-gis/static/js/2.3a31116a.chunk.js.map",
+    "index.html": "/mngl-gis/index.html",
+    "precache-manifest.a86e79e381235e55cf93f7e2566556f7.js": "/mngl-gis/precache-manifest.a86e79e381235e55cf93f7e2566556f7.js",
+    "service-worker.js": "/mngl-gis/service-worker.js",
+    "static/css/main.bcf7e9b0.chunk.css.map": "/mngl-gis/static/css/main.bcf7e9b0.chunk.css.map",
+    "static/js/2.3a31116a.chunk.js.LICENSE.txt": "/mngl-gis/static/js/2.3a31116a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2fa27a4.js",
+    "static/js/runtime-main.b5d88563.js",
     "static/js/2.3a31116a.chunk.js",
     "static/css/main.bcf7e9b0.chunk.css",
-    "static/js/main.549cc770.chunk.js"
+    "static/js/main.5654f2fa.chunk.js"
   ]
 }
