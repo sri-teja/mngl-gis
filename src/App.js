@@ -10,6 +10,7 @@ function App() {
 			<div>
 				<Route path="/map" component={ArcGisTrail} />
 				<Route path="/login" component={Login} />
+				<Route path="/" component={Login} />
 			</div>
 		</Router>
 	</div>
