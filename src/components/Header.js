@@ -34,7 +34,7 @@ function Header() {
 		<React.Fragment>
 			<div className="menu-mobile menu-activated-on-click color-scheme-light">
 				<div className="mm-logo-buttons-w">
-				<Link className="mm-logo" to="/" onClick={() => window.location="/"}>
+				<Link className="mm-logo" to="/login">
 					<img src="./favicon.ico" alt="logo" className="logo" style={{height: "25px", width:"25px", margin: "10px"}}/>
 				</Link>
 				<div className="mm-buttons">
@@ -58,7 +58,7 @@ function Header() {
 			<div className="menu-w color-scheme-light fixed-top color-style-default menu-position-top menu-layout-compact sub-menu-style-over sub-menu-color-bright selected-menu-color-bright menu-activated-on-hover menu-has-selected-link">
 				<div className="logo-w">
 					<div className="logo-w menu-size">
-						<Link to="/" className="logo" onClick={() => window.location="/"}>
+						<Link to="/login" className="logo">
 						<img alt="logo" src='./logo192.png' className="logo" style={{height: "25px", width:"25px", margin: "10px"}}/>MNGL Dashboard
 						</Link>
 					</div>
@@ -66,7 +66,7 @@ function Header() {
 				<div className="top-bar color-scheme-light">
 					<ul>
 						<li>
-							<NavLink exact to="/" activeStyle={style}>Home</NavLink>
+							<NavLink exact to="/login" activeStyle={style}>Home</NavLink>
 						</li>
 					</ul> 
 				</div>

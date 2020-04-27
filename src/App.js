@@ -1,14 +1,15 @@
 import React from 'react';
-import './App.css';
 import { Route, BrowserRouter as Router } from 'react-router-dom';
 import ArcGisTrail from './pages/ArcGisTrail';
+import Login from './pages/Login';
 
 function App() {
   return (
-	<div className="App">
+	<div>
 		<Router>
 			<div>
-				<Route path="/" component={ArcGisTrail} />
+				<Route path="/map" component={ArcGisTrail} />
+				<Route path="/login" component={Login} />
 			</div>
 		</Router>
 	</div>
