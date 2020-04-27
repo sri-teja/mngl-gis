@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c614c2e.chunk.css",
-    "main.js": "/static/js/main.889d13c0.chunk.js",
-    "main.js.map": "/static/js/main.889d13c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b2fa27a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b2fa27a4.js.map",
-    "static/js/2.0fdfbb27.chunk.js": "/static/js/2.0fdfbb27.chunk.js",
-    "static/js/2.0fdfbb27.chunk.js.map": "/static/js/2.0fdfbb27.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2f3e0df2de9d8ea5e14295b77ae8d6a6.js": "/precache-manifest.2f3e0df2de9d8ea5e14295b77ae8d6a6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6c614c2e.chunk.css.map": "/static/css/main.6c614c2e.chunk.css.map",
-    "static/js/2.0fdfbb27.chunk.js.LICENSE.txt": "/static/js/2.0fdfbb27.chunk.js.LICENSE.txt"
+    "main.css": "/mngl-gis/static/css/main.6c614c2e.chunk.css",
+    "main.js": "/mngl-gis/static/js/main.0ff80098.chunk.js",
+    "main.js.map": "/mngl-gis/static/js/main.0ff80098.chunk.js.map",
+    "runtime-main.js": "/mngl-gis/static/js/runtime-main.b5d88563.js",
+    "runtime-main.js.map": "/mngl-gis/static/js/runtime-main.b5d88563.js.map",
+    "static/js/2.0fdfbb27.chunk.js": "/mngl-gis/static/js/2.0fdfbb27.chunk.js",
+    "static/js/2.0fdfbb27.chunk.js.map": "/mngl-gis/static/js/2.0fdfbb27.chunk.js.map",
+    "index.html": "/mngl-gis/index.html",
+    "precache-manifest.d35615f580d1d06b3a058f6529401d2f.js": "/mngl-gis/precache-manifest.d35615f580d1d06b3a058f6529401d2f.js",
+    "service-worker.js": "/mngl-gis/service-worker.js",
+    "static/css/main.6c614c2e.chunk.css.map": "/mngl-gis/static/css/main.6c614c2e.chunk.css.map",
+    "static/js/2.0fdfbb27.chunk.js.LICENSE.txt": "/mngl-gis/static/js/2.0fdfbb27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2fa27a4.js",
+    "static/js/runtime-main.b5d88563.js",
     "static/js/2.0fdfbb27.chunk.js",
     "static/css/main.6c614c2e.chunk.css",
-    "static/js/main.889d13c0.chunk.js"
+    "static/js/main.0ff80098.chunk.js"
   ]
 }
