@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mngl-gis/static/css/main.6c614c2e.chunk.css",
-    "main.js": "/mngl-gis/static/js/main.079204f8.chunk.js",
-    "main.js.map": "/mngl-gis/static/js/main.079204f8.chunk.js.map",
+    "main.js": "/mngl-gis/static/js/main.0898978c.chunk.js",
+    "main.js.map": "/mngl-gis/static/js/main.0898978c.chunk.js.map",
     "runtime-main.js": "/mngl-gis/static/js/runtime-main.b5d88563.js",
     "runtime-main.js.map": "/mngl-gis/static/js/runtime-main.b5d88563.js.map",
-    "static/js/2.eaf8ba70.chunk.js": "/mngl-gis/static/js/2.eaf8ba70.chunk.js",
-    "static/js/2.eaf8ba70.chunk.js.map": "/mngl-gis/static/js/2.eaf8ba70.chunk.js.map",
+    "static/js/2.4f79f2c2.chunk.js": "/mngl-gis/static/js/2.4f79f2c2.chunk.js",
+    "static/js/2.4f79f2c2.chunk.js.map": "/mngl-gis/static/js/2.4f79f2c2.chunk.js.map",
     "index.html": "/mngl-gis/index.html",
-    "precache-manifest.d3da1ea26e251e9d012bfd94dbb6243c.js": "/mngl-gis/precache-manifest.d3da1ea26e251e9d012bfd94dbb6243c.js",
+    "precache-manifest.fc8ba16af5ce7ce09b0df3c7ca8ed998.js": "/mngl-gis/precache-manifest.fc8ba16af5ce7ce09b0df3c7ca8ed998.js",
     "service-worker.js": "/mngl-gis/service-worker.js",
     "static/css/main.6c614c2e.chunk.css.map": "/mngl-gis/static/css/main.6c614c2e.chunk.css.map",
-    "static/js/2.eaf8ba70.chunk.js.LICENSE.txt": "/mngl-gis/static/js/2.eaf8ba70.chunk.js.LICENSE.txt"
+    "static/js/2.4f79f2c2.chunk.js.LICENSE.txt": "/mngl-gis/static/js/2.4f79f2c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b5d88563.js",
-    "static/js/2.eaf8ba70.chunk.js",
+    "static/js/2.4f79f2c2.chunk.js",
     "static/css/main.6c614c2e.chunk.css",
-    "static/js/main.079204f8.chunk.js"
+    "static/js/main.0898978c.chunk.js"
   ]
 }

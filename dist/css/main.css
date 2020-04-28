@@ -13677,9 +13677,7 @@ html {
 
 body {
   min-height: 100%;
-  position: relative;
-  padding: 50px;
-  overflow-x: hidden;
+  position: relative;  overflow-x: hidden;
 }
 
 body:before {
