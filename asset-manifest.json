@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mngl-gis/static/css/main.6c614c2e.chunk.css",
-    "main.js": "/mngl-gis/static/js/main.4fc36fdc.chunk.js",
-    "main.js.map": "/mngl-gis/static/js/main.4fc36fdc.chunk.js.map",
+    "main.js": "/mngl-gis/static/js/main.5dc78e59.chunk.js",
+    "main.js.map": "/mngl-gis/static/js/main.5dc78e59.chunk.js.map",
     "runtime-main.js": "/mngl-gis/static/js/runtime-main.b5d88563.js",
     "runtime-main.js.map": "/mngl-gis/static/js/runtime-main.b5d88563.js.map",
     "static/js/2.e7423ebc.chunk.js": "/mngl-gis/static/js/2.e7423ebc.chunk.js",
     "static/js/2.e7423ebc.chunk.js.map": "/mngl-gis/static/js/2.e7423ebc.chunk.js.map",
     "index.html": "/mngl-gis/index.html",
-    "precache-manifest.c77ced196cdc99ee09960873d052d7d6.js": "/mngl-gis/precache-manifest.c77ced196cdc99ee09960873d052d7d6.js",
+    "precache-manifest.5df42797fc927729c5c0694850f280e7.js": "/mngl-gis/precache-manifest.5df42797fc927729c5c0694850f280e7.js",
     "service-worker.js": "/mngl-gis/service-worker.js",
     "static/css/main.6c614c2e.chunk.css.map": "/mngl-gis/static/css/main.6c614c2e.chunk.css.map",
     "static/js/2.e7423ebc.chunk.js.LICENSE.txt": "/mngl-gis/static/js/2.e7423ebc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b5d88563.js",
     "static/js/2.e7423ebc.chunk.js",
     "static/css/main.6c614c2e.chunk.css",
-    "static/js/main.4fc36fdc.chunk.js"
+    "static/js/main.5dc78e59.chunk.js"
   ]
 }
