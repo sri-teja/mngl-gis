@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d42391280a73e071521ebc8ef760ce4",
+    "revision": "39a7905d2224bd58705c7b1e32f9f4c7",
     "url": "/mngl-gis/index.html"
   },
   {
-    "revision": "a7e74fdc4374218fe809",
+    "revision": "0db0c0111295b8cddcd7",
     "url": "/mngl-gis/static/css/main.6c614c2e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mngl-gis/static/js/2.e7423ebc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7e74fdc4374218fe809",
-    "url": "/mngl-gis/static/js/main.3c08ff8f.chunk.js"
+    "revision": "0db0c0111295b8cddcd7",
+    "url": "/mngl-gis/static/js/main.b133850b.chunk.js"
   },
   {
     "revision": "b75caf1945973ea700b3",
