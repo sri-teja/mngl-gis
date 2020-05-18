@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "809a3cf38e0409640f6b71e4205a79a9",
+    "revision": "552be0465f3502c743409ee0b13c79ef",
     "url": "/mngl-gis/index.html"
   },
   {
