@@ -1,10 +1,11 @@
 import React from 'react';
-import Layout from '../components/Layout'
+import {HashRouter, Link} from 'react-router-dom'
 
 export default function Login(){
 
 	return (
-			<Layout>
+		    <HashRouter basename="/">
+		    <div class="auth-wrapper">
 			<div className="all-wrapper menu-side with-pattern">
 						<div className="row">
 							<div className="col-6">  
@@ -12,7 +13,7 @@ export default function Login(){
 						<div className="col-6">  
 						<div className="auth-box-w">
 							<div className="logo-w pb-4">
-								<a href="/map"><img alt="" src="./mngl.png" width="50%"/></a>
+								<Link to="/map"><img alt="mngl logo" src="./mngl.png" width="50%"/></Link>
 							</div>
 							<h4 className="auth-header">
 								Enterprise Integrity Asset Management System at MNGL
@@ -27,12 +28,14 @@ export default function Login(){
 									<div className="pre-icon os-icon os-icon-fingerprint"></div>
 								</div>
 								<div className="buttons-w">
-										<a className="btn btn-primary" href="/map">Log in</a>
+										<Link className="btn btn-primary" to="/map">Log in</Link>
 								</div>
 							</form>
 							</div>
 							</div>
 						</div>
 					</div>
-					</Layout>
+					</div>
+			</HashRouter>
+
 			)}

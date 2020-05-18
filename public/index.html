@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="icon" href="%PUBLIC_URL%/mngl.png" />
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
+	<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
 	<meta name="theme-color" content="#000000" />
-	<link rel="apple-touch-icon" href="%PUBLIC_URL%/favicon.ico" />
+	<link rel="apple-touch-icon" href="%PUBLIC_URL%/mngl.png" />
 	<link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
 
 	<link rel="manifest" href="/manifest.webmanifest"/><meta name="theme-color" content="#663399"/>
@@ -22,23 +23,32 @@
 	<meta property="og:url" content="" data-react-helmet="true" />
 	<meta property="og:title" content="MNGL ArcGIS" data-react-helmet="true" />
 	<meta property="og:description" content="MNGL ArcGIS | Dashboard" data-react-helmet="true" />
-	<meta property="og:image" content="%PUBLIC_URL%/logo192.png" data-react-helmet="true" />
+	<meta property="og:image" content="%PUBLIC_URL%/mngl.png" data-react-helmet="true" />
 	<meta property="twitter:card" content="summary_large_image" data-react-helmet="true" />
 	<meta property="twitter:url" content="" data-react-helmet="true" />
 	<meta property="twitter:title" content="MNGL ArcGIS" data-react-helmet="true" />
 	<meta property="twitter:description" content="MNGL ArcGIS | Dashboard" data-react-helmet="true" />
-	<meta property="twitter:image" content="%PUBLIC_URL%/logo192.png" data-react-helmet="true" />
-
-	<link href="https://fonts.googleapis.com/css?family=Inter:400,700&display=swap" rel="stylesheet">
-	<link href="css/main.css?version=4.9.0" rel="stylesheet">
-	<link href="icon_fonts_assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link href="dist/css/main.css?version=4.5.0" rel="stylesheet">
-
-	
+	<meta property="twitter:image" content="%PUBLIC_URL%/mngl.png" data-react-helmet="true" />
 	<meta property="twitter:keywords" content="mngl, arcgis, cng" />
+	<link href="https://fonts.googleapis.com/css?family=Inter:400,700&display=swap" rel="stylesheet"/>
+	<link href="css/main.css?version=4.6.0" rel="stylesheet"/>
+	<link href="css/font-awesome.min.css?version=1.1.0" rel="stylesheet"/>
 	
 </head>
-<body class="menu-position-top full-screen with-content-panel">
-	<div id="root" class="all-wrapper with-side-panel solid-bg-all"></div>	
-</body>
+    <body class="menu-position-side menu-side-left full-screen with-content-panel">
+	<div id="root"></div>
+	<script src="js/jquery.min.js"></script>
+    <script src="js/Chart.min.js"></script>
+    <script src="js/daterangepicker.js"></script>
+    <script src="js/perfect-scrollbar.jquery.min.js"></script>
+    <script src="js/util.js"></script>
+    <script src="js/tab.js"></script>
+    <script src="js/main.js?version=4.5.0"></script>
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.15/esri/themes/light/main.css"
+    />
+    <script src="https://js.arcgis.com/4.15/"></script>
+	</body>
+
 </html>
